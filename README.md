@@ -8,15 +8,10 @@ or ask for help.
 
 All this is to improve and evolve as a computer scientist to ultimately be prepared for the year ahead!
 
-<!--
-**KallamSamad/KallamSamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...Using pygame to create a simple chess program/
-- 🌱 I’m currently learning ...Python 
-- 👯 I’m looking to collaborate on ...My chess game
+- 🔭 I’m currently working on: Using pygame to create a simple chess program
+- 🌱 I’m currently learning: Python, discrete maths, cryptography and computer architecture
+- I'm currently reading: Discrete maths and it's applications, Mathematical methods of physics and engineering and cracking the coding interview
+- 👯 I’m looking to collaborate on: My chess game which will initially be a PVP game
 - 🤔 I’m looking for help with ...Using machine learning to improve the AI in the chess game
 - 📫 How to reach me: ...Send me a private message
-- 😄 Pronouns: ...He/Him
--->
