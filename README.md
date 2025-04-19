@@ -6,7 +6,7 @@ I plan on posting every project I do whilst in Uni and potentially refining my c
 I also intend to do some independent projects (outside the classroom) with or without a team. Feel free to add suggestions to refine my code
 or ask for help.
 
-All this is to improve and evolve as a computer scientist to ultimately be prepared for the year ahead!
+All this is to improve and evolve as a computer scientist to ultimately be prepared for the years ahead!
 
 
 - 🔭 I’m currently working on: Using pygame to create a simple chess program
