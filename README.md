@@ -17,6 +17,18 @@ All this is to improve and evolve as a computer scientist to ultimately be prepa
 - 📫 How to reach me: Email me at Kallam.Samad@student.shu.ac.uk
 - 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KallamSamad&react-dark" alt="GitHub Activity Graph" />
-</p>
+# .github/workflows/metrics.yml
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * 0"}] # Weekly update
+  push: {branches: ["main"]}
+  workflow_dispatch:
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: activity, community, repositories, metadata
