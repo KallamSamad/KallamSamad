@@ -8,6 +8,14 @@ or ask for help.
 
 All this is to improve and evolve as a computer scientist to ultimately be prepared for the years ahead!
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KallamSamad&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KallamSamad&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
 - 🔭 I’m currently working on: Using pygame to create a simple chess program
 - 🌱 I’m currently learning: Python, discrete maths, cryptography and computer architecture
@@ -18,11 +26,3 @@ All this is to improve and evolve as a computer scientist to ultimately be prepa
 - 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KallamSamad&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KallamSamad&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
