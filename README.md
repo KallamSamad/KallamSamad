@@ -9,11 +9,11 @@ or ask for help.
 All this is to improve and evolve as a computer scientist to ultimately be prepared for the years ahead!
 
 ## 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=KallamSamad&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KallamSamad&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -23,6 +23,5 @@ All this is to improve and evolve as a computer scientist to ultimately be prepa
 - 👯 I’m looking to collaborate on: My chess game which will initially be a PVP game
 - 🤔 I’m looking for help with: Using machine learning to improve the AI in the chess game/any notes or flashcards on discrete maths so I can prepare for Y1 of University
 - 📫 How to reach me: Email me at Kallam.Samad@student.shu.ac.uk
-- 
-## 📊 GitHub Stats
+  
 
