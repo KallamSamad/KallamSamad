@@ -16,5 +16,7 @@ All this is to improve and evolve as a computer scientist to ultimately be prepa
 - 🤔 I’m looking for help with: Using machine learning to improve the AI in the chess game/any notes or flashcards on discrete maths so I can prepare for Y1 of University
 - 📫 How to reach me: Email me at Kallam.Samad@student.shu.ac.uk
 - 
-
- <img src="https://raw.githubusercontent.com/KallamSamad/KallamSamad/main/github-metrics.svg" alt="GitHub Metrics" />
+## 📊 GitHub Metrics
+<p align="center">
+  <img src="https://metrics.lecoq.io/KallamSamad?template=classic&base=activity,community,repositories&config.timezone=Asia%2FCalcutta" alt="GitHub Metrics" />
+</p>
