@@ -15,3 +15,7 @@ All this is to improve and evolve as a computer scientist to ultimately be prepa
 - 👯 I’m looking to collaborate on: My chess game which will initially be a PVP game
 - 🤔 I’m looking for help with: Using machine learning to improve the AI in the chess game/any notes or flashcards on discrete maths so I can prepare for Y1 of University
 - 📫 How to reach me: Send me a private message
+- 
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KallamSamad&theme=github-compact" alt="GitHub Activity Graph" />
+</p>
