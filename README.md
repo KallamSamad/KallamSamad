@@ -10,7 +10,7 @@ All this is to improve and evolve as a computer scientist to ultimately be prepa
 
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=KallamSamad&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-<p align="topright"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KallamSamad&layout=compact&theme=dark&hide_border=true" alt="Top Languages" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KallamSamad&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
 
 - 🔭 I’m currently working on: Using pygame to create a simple chess program
