@@ -9,11 +9,9 @@ or ask for help.
 All this is to improve and evolve as a computer scientist to ultimately be prepared for the years ahead!
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KallamSamad&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p> <p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KallamSamad&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=KallamSamad&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KallamSamad&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+
 
 - 🔭 I’m currently working on: Using pygame to create a simple chess program
 - 🌱 I’m currently learning: Python, discrete maths, cryptography and computer architecture
