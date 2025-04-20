@@ -14,7 +14,7 @@ All this is to improve and evolve as a computer scientist to ultimately be prepa
 - 📖 I'm currently reading: Discrete maths and it's applications, Mathematical methods of physics and engineering and cracking the coding interview
 - 👯 I’m looking to collaborate on: My chess game which will initially be a PVP game
 - 🤔 I’m looking for help with: Using machine learning to improve the AI in the chess game/any notes or flashcards on discrete maths so I can prepare for Y1 of University
-- 📫 How to reach me: Send me a private message
+- 📫 How to reach me: Email me at Kallam.Samad@student.shu.ac.uk
 - 
 
 <p align="center">
