@@ -17,5 +17,6 @@ All this is to improve and evolve as a computer scientist to ultimately be prepa
 - 📫 How to reach me: Send me a private message
 - 
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=KallamSamad&theme=github-compact" alt="GitHub Activity Graph" />
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KallamSamad&theme=github-compact" alt="GitHub Activity Graph" />
+</p>
