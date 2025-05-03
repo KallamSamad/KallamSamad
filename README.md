@@ -13,8 +13,8 @@ All this is to improve and evolve as a computer scientist to ultimately be prepa
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KallamSamad&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
 ## About me
-- 🔭 I’m currently working on: Using pygame to create a simple chess program
-- 🌱 I’m currently learning: Python, discrete maths, cryptography and computer architecture
+- 🔭 I’m currently working on: my maths website - https://kallamsamad.github.io/DyoverDx/
+- 🌱 I’m currently learning: Python, JavaScript, CSS, HTML, SQL, PHP, discrete maths, cryptography and computer architecture
 - 📖 I'm currently reading: Discrete maths and it's applications, Mathematical methods of physics and engineering and cracking the coding interview
 - 👯 I’m looking to collaborate on: My chess game which will initially be a PVP game
 - 🤔 I’m looking for help with: Using machine learning to improve the AI in the chess game/any notes or flashcards on discrete maths so I can prepare for Y1 of University
