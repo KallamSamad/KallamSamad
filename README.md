@@ -9,7 +9,7 @@ or ask for help.
 All this is to improve and evolve as a computer scientist to ultimately be prepared for the years ahead!
 
 ## 📊 GitHub Stats
-[![KallamSamad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KallamSamad&theme=dracula&hide_border=false)](https://github-readme-streak-stats.herokuapp.com/?user=KallamSamad&theme=dracula&hide_border=false)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs,issues)
 ## About me
 - 🔭 I’m currently working on: my maths website - https://kallamsamad.github.io/DyoverDx/
 - 🌱 I’m currently learning: Python, JavaScript, CSS, HTML, SQL, PHP, discrete maths, cryptography and computer architecture
