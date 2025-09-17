@@ -9,7 +9,7 @@ or ask for help.
 All this is to improve and evolve as a computer scientist to ultimately be prepared for the years ahead!
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs,issues)
+![Commits](https://img.shields.io/github/commit-activity/m/your-username/your-repo)
 
 ## About me
 - 🔭 I’m currently working on: my maths website - https://kallamsamad.github.io/DyoverDx/
