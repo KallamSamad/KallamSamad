@@ -10,8 +10,7 @@ All this is to improve and evolve as a computer scientist to ultimately be prepa
 
 ## 📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=KallamSamad&theme=highcontrast&show_icons=true&hide_border=false&count_private=true
-
+![KallamSamad's Stats](https://github-readme-stats.vercel.app/api?username=KallamSamad&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 ## About me
 - 🔭 I’m currently working on: my maths website - https://kallamsamad.github.io/DyoverDx/
 - 🌱 I’m currently learning: Python, JavaScript, CSS, HTML, SQL, PHP, discrete maths, cryptography and computer architecture
