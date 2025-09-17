@@ -9,7 +9,7 @@ or ask for help.
 All this is to improve and evolve as a computer scientist to ultimately be prepared for the years ahead!
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=false&include_all_commits=true)
+
 ![KallamSamad's Stats](https://github-readme-stats.vercel.app/api?username=KallamSamad&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 ![KallamSamad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KallamSamad&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
