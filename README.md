@@ -8,9 +8,17 @@ I also intend to do some independent projects (outside the classroom) with or wi
 All this is to improve and evolve as a computer scientist to ultimately be prepared for the years ahead!
 
 ## 📊 GitHub Stats
+# Stats
+![Stats](https://readme-stats-fast.vercel.app/api?username=KallamSamad&show_icons=true&theme=highcontrast)
 
-![KallamSamad's Stats](https://readme-stats-fast.vercel.app/api?username=KallamSamad&show_icons=true&theme=highcontrast)
-![Top Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=KallamSamad&layout=compact&theme=highcontrast)
+# Languages
+![Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=KallamSamad&layout=compact&theme=highcontrast)
+
+# Streak
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=KallamSamad&theme=highcontrast)
+
+# Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=KallamSamad&theme=darkhub)
 
 ## About me
 
