@@ -9,8 +9,8 @@ All this is to improve and evolve as a computer scientist to ultimately be prepa
 
 ## 📊 GitHub Stats
 
-![KallamSamad's Stats](https://github-readme-stats.vercel.app/api?username=KallamSamad&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
-![KallamSamad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KallamSamad&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
+![KallamSamad's Stats](https://readme-stats-fast.vercel.app/api?username=KallamSamad&show_icons=true&theme=highcontrast)
+![Top Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=KallamSamad&layout=compact&theme=highcontrast)
 
 ## About me
 
